@@ -1,5 +1,3 @@
-# numerics21.github.io
-
 # Whitepaper: IVR on Blockchain with Earning Capability
 
 ## Abstract
