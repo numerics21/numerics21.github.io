@@ -97,7 +97,3 @@ Integrating IVR with blockchain and providing earning capabilities presents an o
 ### 5.2 Future Prospects
 
 The future of IVR on blockchain with earning capabilities is promising, with the potential to revolutionize how users interact with IVR systems and are rewarded for their participation.
-
----
-
-**Note:** This is a simplified and concise whitepaper that provides a high-level overview of the concept of IVR on blockchain with earning capabilities. The actual implementation and details would need to be customized based on specific use cases and objectives.
